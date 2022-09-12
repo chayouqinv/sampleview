@@ -1,0 +1,38 @@
+{
+    "name": "sampleview",
+    "description": "",
+    "keywords": ["sampleview"],
+    "env": {
+        "AA": {
+            "description": "id",
+            "value": "check and try"
+        },
+        "AUUID": {
+            "description": "UUID",
+            "value": "fs32ssafs2-twsfdf-ddj2j-fwe3-3kskx"
+        },
+        "CADDYIndexPage": {
+            "description": "view page",
+            "value": "https://github.com/"
+        },
+        "CONFIGCADDY": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/42435/43245/main/etc/Caddyfile"
+        },
+        "CONFIGXRAY": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/43245/42435/main/etc/xray.json"
+        },
+        "ParameterSSENCYPT": {
+            "description": "SsS",
+            "value": "chacha20-ietf-poly1305"
+        },
+        "StoreFiles": {
+            "description": "",
+            "value": "https://raw.githubusercontent.com/423345/4245/main/etc/StoreFiles"
+        }
+    },
+    "website": "https://github.com/qw45",
+    "repository": "https://github.com/qw45",
+    "stack": "container"
+}
